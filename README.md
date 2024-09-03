@@ -7,9 +7,9 @@
 1. Clone the github repository to your local system using  git clone https://github.com/HaneenElyamani/ECG-classification
 2. Make sure python and pip are installed in your system. If not, visit https://www.python.org/ to download python.
 3. Code requires two more packages to run: Numpy, scikit-learn and Tensorflow
-   i. Install numpy ->  pip install numpy
-   ii. Install scikit-learn ->  pip install scikit-learn
-   iii. Install tensorflow ->  pip install tensorflow
+   * Install numpy ->  pip install numpy
+   * Install scikit-learn ->  pip install scikit-learn
+   * Install tensorflow ->  pip install tensorflow
 4. Run the code file:  python main.py
 5. It will output the classes for the given sample.
   
